@@ -1,9 +1,9 @@
 # 👉 Interactive plotly data selection in streamlit 📊
 
-<div style="text-align:center"><img width="500px" src="app-demo.gif" />
+<p align="center"><img width="400px" src="app-demo.gif" />
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://interactive-plotly-dataframe.streamlit.app/)
-</div>
+</p>
 
 ### streamlit-interactive-plotly-data
 
