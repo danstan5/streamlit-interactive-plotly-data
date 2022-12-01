@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Streamlit App",
+            "type": "python",
+            "request": "launch",
+            "program": ".venv/Lib/site-packages/streamlit", // local installation of streamlit
+            "args": [
+                "run", "${file}",
+                "--server.runOnSave", "True", // auto reload ON
+                "--server.headless", "True",  // prevents popup browser tab
+            ]
+        }
+    ]
+}
